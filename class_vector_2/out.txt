@@ -1,0 +1,40 @@
+Distance: 50
+step length: 1
+You have passed 263 steps.
+Middle distance per step: 0.190492
+
+Distance: 50
+step length: 1
+You have passed 749 steps.
+Middle distance per step: 0.0675089
+
+Distance: 50
+step length: 1
+You have passed 540 steps.
+Middle distance per step: 0.0928343
+
+Distance: 50
+step length: 1
+You have passed 238 steps.
+Middle distance per step: 0.21045
+
+Distance: 50
+step length: 1
+You have passed 605 steps.
+Middle distance per step: 0.083712
+
+Distance: 50
+step length: 2
+You have passed 106 steps.
+Middle distance per step: 0.485186
+
+Distance: 50
+step length: 2
+You have passed 124 steps.
+Middle distance per step: 0.415843
+
+Distance: 50
+step length: 2
+You have passed 98 steps.
+Middle distance per step: 0.521213
+

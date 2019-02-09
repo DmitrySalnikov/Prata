@@ -1,0 +1,86 @@
+-----------------------------------------------
+type = int, iter = 1 pow of 10 = 8
+
+size = 10
+list.sort(): 0.000025
+copy>sort(vector)>copy: 0.000007
+
+size = 100
+list.sort(): 0.000119
+copy>sort(vector)>copy: 0.000116
+
+size = 1000
+list.sort(): 0.001361
+copy>sort(vector)>copy: 0.000874
+
+size = 10000
+list.sort(): 0.008145
+copy>sort(vector)>copy: 0.003015
+
+size = 100000
+list.sort(): 0.059459
+copy>sort(vector)>copy: 0.037271
+
+size = 1000000
+list.sort(): 0.878283
+copy>sort(vector)>copy: 0.437238
+
+size = 10000000
+list.sort(): 12.467422
+copy>sort(vector)>copy: 5.106702
+-----------------------------------------------
+type = int, iter = 5 pow of 10 = 7
+
+size = 10
+list.sort(): 0.000019
+copy>sort(vector)>copy: 0.000007
+
+size = 100
+list.sort(): 0.000120
+copy>sort(vector)>copy: 0.000068
+
+size = 1000
+list.sort(): 0.000842
+copy>sort(vector)>copy: 0.000473
+
+size = 10000
+list.sort(): 0.005107
+copy>sort(vector)>copy: 0.003141
+
+size = 100000
+list.sort(): 0.068947
+copy>sort(vector)>copy: 0.037427
+
+size = 1000000
+list.sort(): 1.077576
+copy>sort(vector)>copy: 0.442202
+
+size = 10000000
+list.sort(): 15.659272
+copy>sort(vector)>copy: 5.118307
+-----------------------------------------------
+type = int, iter = 10 pow of 10 = 6
+
+size = 10
+list.sort(): 0.000017
+copy>sort(vector)>copy: 0.000006
+
+size = 100
+list.sort(): 0.000118
+copy>sort(vector)>copy: 0.000065
+
+size = 1000
+list.sort(): 0.000503
+copy>sort(vector)>copy: 0.000302
+
+size = 10000
+list.sort(): 0.005103
+copy>sort(vector)>copy: 0.003116
+
+size = 100000
+list.sort(): 0.070804
+copy>sort(vector)>copy: 0.037380
+
+size = 1000000
+list.sort(): 1.126059
+copy>sort(vector)>copy: 0.440722
